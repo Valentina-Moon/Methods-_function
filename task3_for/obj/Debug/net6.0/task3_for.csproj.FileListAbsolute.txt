@@ -1,0 +1,15 @@
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\obj\Debug\net6.0\task3_for.csproj.AssemblyReference.cache
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\obj\Debug\net6.0\task3_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\obj\Debug\net6.0\task3_for.AssemblyInfoInputs.cache
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\obj\Debug\net6.0\task3_for.AssemblyInfo.cs
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\obj\Debug\net6.0\task3_for.csproj.CoreCompileInputs.cache
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\bin\Debug\net6.0\task3_for.exe
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\bin\Debug\net6.0\task3_for.deps.json
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\bin\Debug\net6.0\task3_for.runtimeconfig.json
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\bin\Debug\net6.0\task3_for.dll
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\bin\Debug\net6.0\task3_for.pdb
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\obj\Debug\net6.0\task3_for.dll
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\obj\Debug\net6.0\refint\task3_for.dll
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\obj\Debug\net6.0\task3_for.pdb
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\obj\Debug\net6.0\task3_for.genruntimeconfig.cache
+C:\Users\Tseh\Desktop\Функции_и_методы\task3_for\obj\Debug\net6.0\ref\task3_for.dll
